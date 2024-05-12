@@ -1,0 +1,100 @@
+[
+    {
+        "giorno": "Domenica",
+        "data": "24/01/2024",
+        "films": [
+            {
+                "Titolo": "Shrek",
+                "trama": "Quindi, c'è questo orco verde e bruttarello di nome Shrek, che abita in una palude perché, diciamocelo, chiunque desidera una bella palude come dimora di lusso, vero? Un giorno, la sua palude si trasforma in una sorta di discarica per personaggi delle fiabe. C'è un asino che parla più di una presentatrice televisiva, una principessa con una cotta per la lotta, e anche un cavaliere con l'ego più grande di un drago gonfiabile. Per risolvere il suo problema di spazio, Shrek accetta una missione da parte di Lord Farquaad, il nano con le manie di grandezza. Deve salvare la Principessa Fiona, che è praticamente la regina del karaoke nel suo castello. Ma aspetta, ci sono colpi di scena! Fiona ha un piccolo segreto che trasformerà il mondo delle fiabe in una danza scatenata. Durante questa folle avventura, Shrek scopre che l'amore può essere più imprevedibile di una pozione magica e che le 'favolette' possono finire in modi davvero inaspettati. Alla fine, tutti vivono felici e contenti, tranne forse il drago gonfiabile che si lamenta di non essere stato invitato alla festa."
+            },
+            {
+                "Titolo": "Altro Film",
+                "trama": "Trama dell'altro film per Domenica"
+            }
+        ]
+    },
+    {
+        "giorno": "Lunedì",
+        "data": "24/01/2024",
+        "films": [
+            {
+                "Titolo": "Shrek",
+                "trama": "Trama di Shrek per Lunedì"
+            },
+            {
+                "Titolo": "Altro Film",
+                "trama": "Trama dell'altro film per Lunedì"
+            }
+        ]
+    },
+    {
+        "giorno": "Martedì",
+        "data": "24/01/2024",
+        "films": [
+            {
+                "Titolo": "Shrek",
+                "trama": "Trama di Shrek per Martedì"
+            },
+            {
+                "Titolo": "Altro Film",
+                "trama": "Trama dell'altro film per Martedì"
+            }
+        ]
+    },
+    {
+        "giorno": "Mercoledì",
+        "data": "24/01/2024",
+        "films": [
+            {
+                "Titolo": "Shrek",
+                "trama": "Trama di Shrek per Mercoledì"
+            },
+            {
+                "Titolo": "Altro Film",
+                "trama": "Trama dell'altro film per Mercoledì"
+            }
+        ]
+    },
+    {
+        "giorno": "Giovedì",
+        "data": "24/01/2024",
+        "films": [
+            {
+                "Titolo": "Shrek",
+                "trama": "Trama di Shrek per Giovedì"
+            },
+            {
+                "Titolo": "Altro Film",
+                "trama": "Trama dell'altro film per Giovedì"
+            }
+        ]
+    },
+    {
+        "giorno": "Venerdì",
+        "data": "24/01/2024",
+        "films": [
+            {
+                "Titolo": "Shrek",
+                "trama": "Trama di Shrek per Venerdì"
+            },
+            {
+                "Titolo": "Altro Film",
+                "trama": "Trama dell'altro film per Venerdì"
+            }
+        ]
+    },
+    {
+        "giorno": "Sabato",
+        "data": "24/01/2024",
+        "films": [
+            {
+                "Titolo": "Shrek",
+                "trama": "Trama di Shrek per Sabato"
+            },
+            {
+                "Titolo": "Altro Film",
+                "trama": "Trama dell'altro film per Sabato"
+            }
+        ]
+    }
+]
